@@ -1,9 +1,9 @@
 ﻿{
 	"format_version": 2,
 	"header": {
-		"description": "§rPACK DESCRIPTION | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
-		"name": "§1§lAlien's§r §ePack name §4(BP/RP-V1.0.0)§r",
-		"uuid": "UUID1 HERE",
+		"description": "§rMakes rain less annoying. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+		"name": "§1§lAlien's§r §eNicer Rain §4(RP-V1.0.0)§r",
+		"uuid": "5eb1fa25-4ef6-49cd-93bc-a7533a801ab4",
 		"version": [
 			1,
 			0,
@@ -17,9 +17,9 @@
 	},
 	"modules": [
 		{
-			"description": "§rPACK DESCRIPTION | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
-			"type": "resources | data",
-			"uuid": "UUID2 HERE",
+			"description": "§rMakes rain less annoying. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+			"type": "resources",
+			"uuid": "7811c20f-0bab-48fb-b2f3-87a21a61d25d",
 			"version": [
 				1,
 				0,
