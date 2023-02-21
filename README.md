@@ -1,4 +1,4 @@
-# Pack name
+# Nicer Rain resource pack
 ## Information
 This pack makes rain considerably less obtrusive and much less distracting. It does this by reducing the texture size, the amount of splash particles generated and reduces the fog distance.
 ## Download
